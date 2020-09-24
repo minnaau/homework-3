@@ -122,6 +122,7 @@ footer{
   color: #FFFFFF;
   min-height: 75px;
   position: fixed;
-  /*margin: 0em;*/
+  left: 0px;
+  bottom: 0px;
 }
 
