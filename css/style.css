@@ -97,8 +97,8 @@ tr{
 
 }
 
-*{
-
+* :focus{
+  border: 2px dashed #417243;
 }
 
 thead tr:first-child th:first-child{
