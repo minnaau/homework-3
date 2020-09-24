@@ -67,11 +67,11 @@ table tr:nth-child(odd) {
 }
 
 table tr:hover {
-  background-color: rgba(126, 8 , 32, .25); /*rgba(190, 62, 105, 0.25);*/
+  background-color: rgba(126, 8 , 32, .25);
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
