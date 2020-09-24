@@ -30,7 +30,7 @@ main{
 }
 
 h1{
-  color: #c12258;
+  color: #C12258;
   font-size: 2em;
   text-align: center;
   line-height: 2;
@@ -48,7 +48,7 @@ a{
   font-size: 16px;
   color: #C12258;
   text-decoration: underline wavy;
-  text-decoration-color: blue;
+  text-decoration-color: #C12258;
 }
 
 table{
