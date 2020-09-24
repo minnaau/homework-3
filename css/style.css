@@ -30,7 +30,7 @@ main{
 }
 
 h1{
-  color: #C12258;
+  color: #B92751;
   font-size: 2em;
   text-align: center;
   line-height: 2;
@@ -46,9 +46,9 @@ p{
 
 a{
   font-size: 16px;
-  color: #C12258;
+  color: #B92751;
   text-decoration: underline wavy;
-  text-decoration-color: #C12258;
+  text-decoration-color: #B92751;
 }
 
 table{
@@ -83,6 +83,7 @@ table tr:hover {
   border-top: 2px solid #000000;
   border-right: 2px solid #000000;
   border-collapse: collapse;
+  vertical-align: middle; 
 }
 
 td{
